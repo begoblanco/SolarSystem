@@ -1,5 +1,5 @@
 package dev.bego.enums;
 
 public enum PlanetType {
-    GAS, TERRESTRIAL, DWARF
+    GASEOUS, TERRESTRIAL, DWARF
 }
