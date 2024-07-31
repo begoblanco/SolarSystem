@@ -20,3 +20,7 @@ Calcular la densidad del planeta, como el cociente entre su masa y su volumen.
 Determinar si un planeta del sistema solar se considera exterior.
 Un planeta exterior está situado más allá del cinturón de asteroides. El cinturón de asteroides se encuentra entre 2.1 y 3.4 UA. Una unidad astronómica (UA) es la distancia entre la Tierra y el Sol = 149597870 Km.
 En el método main de la clase App se deben crear dos planetas y mostrar los valores de sus atributos en pantalla. Además, se debe imprimir la densidad de cada planeta y si el planeta es un planeta exterior del sistema solar.
+
+## UML diagram 
+
+![solarsystem](https://github.com/user-attachments/assets/a203e8c0-d32d-4b72-ac79-cda5e472808e)
